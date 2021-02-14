@@ -1,5 +1,4 @@
-# homework-week1
-Homework Assignment
+Code Refactor Project
 
 User Story
 AS A marketing agency
