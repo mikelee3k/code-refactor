@@ -21,17 +21,18 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
+
 Updated 2/12/21
 
 Looking at the HTML code, 
-    *Use semantic HTML 
-    *Change the title element text
-    *Get the navbar links working  
-    *Make sure each image element has the required alt attribute
+    *Use semantic HTML - done
+    *Change the title element text - done
+    *Get the navbar links working  - done 
+    *Make sure each image element has the required alt attribute - done
     
 In the CSS code, 
-    *Leave a few comments  
-    *Rework the CSS to make it more efficient by consolidating CSS selectors and properties
+    *Leave a few comments  -  done
+    *Rework the CSS to make it more efficient by consolidating CSS selectors and properties - done
     *Organize them to follow the semantic structure of the HTML elements
 
 As for the repo, 
@@ -41,3 +42,4 @@ As for the repo,
 In the README, include 
     *A link to the deployed website
     *Screenshot of the application
+    
