@@ -32,13 +32,14 @@ Looking at the HTML code,
 In the CSS code, 
     *Leave a few comments  -  done
     *Rework the CSS to make it more efficient by consolidating CSS selectors and properties - done
-    *Organize them to follow the semantic structure of the HTML elements
+    *Organize them to follow the semantic structure of the HTML elements - done
 
 As for the repo, 
-    *Give it a unique name such as Code Refactor, avoid using words like homework in the repo name
+    *Give it a unique name such as Code Refactor, avoid using words like homework in the repo name - done
      
     
 In the README, include 
-    *A link to the deployed website
+    *A link to the deployed website - done 
+        https://mikelee3k.github.io/code-refactor/
     *Screenshot of the application
     
