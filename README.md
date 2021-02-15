@@ -19,27 +19,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-
-
-Updated 2/12/21
-
-Looking at the HTML code, 
-    *Use semantic HTML - done
-    *Change the title element text - done
-    *Get the navbar links working  - done 
-    *Make sure each image element has the required alt attribute - done
-    
-In the CSS code, 
-    *Leave a few comments  -  done
-    *Rework the CSS to make it more efficient by consolidating CSS selectors and properties - done
-    *Organize them to follow the semantic structure of the HTML elements - done
-
-As for the repo, 
-    *Give it a unique name such as Code Refactor, avoid using words like homework in the repo name - done
-     
-    
-In the README, include 
-    *A link to the deployed website - done 
-        https://mikelee3k.github.io/code-refactor/
-    *Screenshot of the application
-    
+Website Link: https://mikelee3k.github.io/code-refactor/
+ 
+ 
